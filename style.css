@@ -1,0 +1,38 @@
+body {
+    background-color: #393E46;
+}
+
+div>h1{
+    color: blue;
+    text-align: center;
+    font-size: 3rem;
+    font-family: cursive;
+}
+
+.play{
+    font-size: 1.5rem;
+    text-align: center;
+    color: blue;
+}
+
+.images{
+    text-align: center;
+}
+
+.die{
+    font-family: cursive;
+    display: inline-flex;
+    flex-direction: column;
+    margin: 1rem;
+    border-radius: 20%;
+}
+
+.p1Win{
+    text-align: left;
+    color: red;
+}
+
+.p2Win{
+    text-align: right;
+    color: red;
+}
